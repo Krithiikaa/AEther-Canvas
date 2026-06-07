@@ -3,13 +3,13 @@
 # 🌌 Æther Canvas
 
 
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N2UzcjBkMTJrOXQyZWNreHhjYXF6ZnhjeGo4dzhiZXY0bTg5NTVrYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JU9KTUJojLdQY/giphy.gif" width="240" alt="Neon Space Planet" />
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemdiNHFzNW8yYWdvZHByaXVrYjBqa3ExeHF4cGtlNzgyOG9jdGxlNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QLj1DlO0Qe2Ws/giphy.gif" width="240" alt="Neon Space Planet" />
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N3Q5bGtyMXhjb2o4NTR0MHA4MWcwbml0aHVmZDE5MjdpcWJwOW5hdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KgsM9d7xmZvgc/giphy.gif" width="240" alt="Neon Space Planet" />
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N2UzcjBkMTJrOXQyZWNreHhjYXF6ZnhjeGo4dzhiZXY0bTg5NTVrYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JU9KTUJojLdQY/giphy.gif" width="200" alt="Neon Space Planet" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemdiNHFzNW8yYWdvZHByaXVrYjBqa3ExeHF4cGtlNzgyOG9jdGxlNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QLj1DlO0Qe2Ws/giphy.gif" width="200" alt="Neon Space Planet" />
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N3Q5bGtyMXhjb2o4NTR0MHA4MWcwbml0aHVmZDE5MjdpcWJwOW5hdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KgsM9d7xmZvgc/giphy.gif" width="200" alt="Neon Space Planet" />
 
 ### *Paint upon the invisible. Your hand becomes the brush.*
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmVoejJrcmkyMjg1MWp2dWswbjM5dzZlMmNyeDNhczhsbXBmdnVjZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/T3VvkObtEPRTsp2wdU/giphy.gif" width="120" alt="Neon Sparkles" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Zjd3ozZXA5cjcyMDFpZnkwamltczBoM2pnamF6cHNleWU1OXEydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0Iy447hZhaiHnuwg/giphy.gif" width="120" alt="Neon Sparkles" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Style-Neon%20Aesthetic-bf5af2?style=for-the-badge&logoColor=white" alt="Style Badge" />
@@ -50,7 +50,7 @@ Unlike standard computer-vision canvas applications that experience lag, coordin
 ## 🖐️ Magic Gestures
 
 <div align="center">
-  <img src="https://media.giphy.com/media/du3J3JHdDsYMClIO0F/giphy.gif" width="180" alt="Drawing Hand Animation" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemVqYmF6cW43Zm80aTk3OTNtam5qbXM1N2kwdWVkOGJqNHF1NWY1bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JNy1B5pITHKacwDhuN/giphy.gif" width="180" alt="Drawing Hand Animation" />
 </div>
 
 | Gesture | Cursor | Action | Description |
@@ -90,7 +90,7 @@ No installations required. Since it's built with pure, modern vanilla web standa
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3orif2CsQ1qNfip21y/giphy.gif" width="120" alt="Neon Drawing Pencil" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBrNHFvMGZmaWtuODJ6MWNweTVyaGwxc2owcWw3ZTdpb3F1cncwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eurNYYxFUGYxHDfUtZ/giphy.gif" width="120" alt="Neon Drawing Pencil" />
   
   *Created with ❤️ by Krithiikaa. Paint the invisible.*
 </div>
