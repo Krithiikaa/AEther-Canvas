@@ -24,6 +24,11 @@
 ---
 
 ## 💫 The Experience
+
+<div align="center">
+  <img src="https://media.giphy.com/media/l0ExdArV9N1mQc8sE/giphy.gif" width="160" alt="Paint Splatter" />
+</div>
+
 **Æther Canvas** is a premium, browser-based digital painting canvas that uses real-time computer vision to track hand movements, translating your physical gestures into high-fidelity neon artwork. No mouse, no touch screens, no physical controllers—just you, the air, and your imagination.
 
 ---
