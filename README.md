@@ -2,7 +2,7 @@
 
 # 🌌 Æther Canvas
 
-<img src="https://media.giphy.com/media/l41lFw057lFZ3QCmQ/giphy.gif" width="120" alt="Neon Space Planet" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemdiNHFzNW8yYWdvZHByaXVrYjBqa3ExeHF4cGtlNzgyOG9jdGxlNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QLj1DlO0Qe2Ws/giphy.gif" width="120" alt="Neon Space Planet" />
 
 ### *Paint upon the invisible. Your hand becomes the brush.*
 
