@@ -20,7 +20,7 @@
 
 ---
 
-[✨ Live Demo](https://github.com/Krithiikaa/AEther-Canvas) • [📝 Implementation Plan](file:///C:/Users/User/.gemini/antigravity-ide/brain/b5a37137-08a9-4850-b6e8-7a2bc6af900e/implementation_plan.md) • [🚀 Walkthrough](file:///C:/Users/User/.gemini/antigravity-ide/brain/b5a37137-08a9-4850-b6e8-7a2bc6af900e/walkthrough.md)
+ • [🖐️✨ Æther Canvas ☝️🎨 - Live Demo](https://krithiikaa.github.io/AEther-Canvas/) • 
 
 </div>
 
