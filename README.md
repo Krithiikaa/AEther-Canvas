@@ -2,11 +2,11 @@
 
 # 🌌 Æther Canvas
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemdiNHFzNW8yYWdvZHByaXVrYjBqa3ExeHF4cGtlNzgyOG9jdGxlNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QLj1DlO0Qe2Ws/giphy.gif" width="120" alt="Neon Space Planet" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemdiNHFzNW8yYWdvZHByaXVrYjBqa3ExeHF4cGtlNzgyOG9jdGxlNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QLj1DlO0Qe2Ws/giphy.gif" width="240" alt="Neon Space Planet" />
 
 ### *Paint upon the invisible. Your hand becomes the brush.*
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmVoejJrcmkyMjg1MWp2dWswbjM5dzZlMmNyeDNhczhsbXBmdnVjZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/T3VvkObtEPRTsp2wdU/giphy.gif" width="80" alt="Neon Sparkles" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmVoejJrcmkyMjg1MWp2dWswbjM5dzZlMmNyeDNhczhsbXBmdnVjZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/T3VvkObtEPRTsp2wdU/giphy.gif" width="120" alt="Neon Sparkles" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Style-Neon%20Aesthetic-bf5af2?style=for-the-badge&logoColor=white" alt="Style Badge" />
@@ -26,7 +26,7 @@
 ## 💫 The Experience
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l0ExdArV9N1mQc8sE/giphy.gif" width="160" alt="Paint Splatter" />
+  <img src="https://media.giphy.com/media/l0ExdArV9N1mQc8sE/giphy.gif" width="420" alt="Paint Splatter" />
 </div>
 
 **Æther Canvas** is a premium, browser-based digital painting canvas that uses real-time computer vision to track hand movements, translating your physical gestures into high-fidelity neon artwork. No mouse, no touch screens, no physical controllers—just you, the air, and your imagination.
@@ -47,7 +47,7 @@ Unlike standard computer-vision canvas applications that experience lag, coordin
 ## 🖐️ Magic Gestures
 
 <div align="center">
-  <img src="https://media.giphy.com/media/du3J3JHdDsYMClIO0F/giphy.gif" width="120" alt="Drawing Hand Animation" />
+  <img src="https://media.giphy.com/media/du3J3JHdDsYMClIO0F/giphy.gif" width="180" alt="Drawing Hand Animation" />
 </div>
 
 | Gesture | Cursor | Action | Description |
@@ -87,7 +87,7 @@ No installations required. Since it's built with pure, modern vanilla web standa
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3orif2CsQ1qNfip21y/giphy.gif" width="80" alt="Neon Drawing Pencil" />
+  <img src="https://media.giphy.com/media/3orif2CsQ1qNfip21y/giphy.gif" width="120" alt="Neon Drawing Pencil" />
   
   *Created with ❤️ by Krithiikaa. Paint the invisible.*
 </div>
