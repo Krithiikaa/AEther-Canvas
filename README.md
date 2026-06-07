@@ -2,9 +2,9 @@
 
 # 🌌 Æther Canvas
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemdiNHFzNW8yYWdvZHByaXVrYjBqa3ExeHF4cGtlNzgyOG9jdGxlNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QLj1DlO0Qe2Ws/giphy.gif" width="240" alt="Neon Space Planet" />
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemdiNHFzNW8yYWdvZHByaXVrYjBqa3ExeHF4cGtlNzgyOG9jdGxlNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/46NxQ91ODfzx9fIfCd/giphy.gif" width="240" alt="Neon Space Planet" />
+
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N2UzcjBkMTJrOXQyZWNreHhjYXF6ZnhjeGo4dzhiZXY0bTg5NTVrYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JU9KTUJojLdQY/giphy.gif" width="240" alt="Neon Space Planet" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemdiNHFzNW8yYWdvZHByaXVrYjBqa3ExeHF4cGtlNzgyOG9jdGxlNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QLj1DlO0Qe2Ws/giphy.gif" width="240" alt="Neon Space Planet" />
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N3Q5bGtyMXhjb2o4NTR0MHA4MWcwbml0aHVmZDE5MjdpcWJwOW5hdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KgsM9d7xmZvgc/giphy.gif" width="240" alt="Neon Space Planet" />
 
 ### *Paint upon the invisible. Your hand becomes the brush.*
