@@ -2,7 +2,11 @@
 
 # 🌌 Æther Canvas
 
+<img src="https://media.giphy.com/media/l41lFw057lFZ3QCmQ/giphy.gif" width="120" alt="Neon Space Planet" />
+
 ### *Paint upon the invisible. Your hand becomes the brush.*
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmVoejJrcmkyMjg1MWp2dWswbjM5dzZlMmNyeDNhczhsbXBmdnVjZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/T3VvkObtEPRTsp2wdU/giphy.gif" width="80" alt="Neon Sparkles" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Style-Neon%20Aesthetic-bf5af2?style=for-the-badge&logoColor=white" alt="Style Badge" />
@@ -36,6 +40,10 @@ Unlike standard computer-vision canvas applications that experience lag, coordin
 ---
 
 ## 🖐️ Magic Gestures
+
+<div align="center">
+  <img src="https://media.giphy.com/media/du3J3JHdDsYMClIO0F/giphy.gif" width="120" alt="Drawing Hand Animation" />
+</div>
 
 | Gesture | Cursor | Action | Description |
 | :---: | :---: | :---: | :--- |
@@ -74,7 +82,7 @@ No installations required. Since it's built with pure, modern vanilla web standa
 ---
 
 <div align="center">
-
-*Created with ❤️ by Krithiikaa. Paint the invisible.*
-
+  <img src="https://media.giphy.com/media/3orif2CsQ1qNfip21y/giphy.gif" width="80" alt="Neon Drawing Pencil" />
+  
+  *Created with ❤️ by Krithiikaa. Paint the invisible.*
 </div>
